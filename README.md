@@ -8,6 +8,18 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 70px></picture> About me
 
 ---
+
+- 🧑‍🎓 I’m an Undergraduate at **ESOFT**
+
+- 🌱 I’m currently learning **React.js, Next.js**
+
+- 💬 Ask me about **HTML, CSS**
+
+- 📫 How to reach me **sahansenevirathna05@gmail.com**
+
+- ⚡ Think fact **Creating innovative software solutions one line at a time**
+
+---
 <h3 align="center">My Statics:</h3>
 <!--- stats & Trophy (start) -->
 <p align="center">
